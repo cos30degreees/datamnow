@@ -1,0 +1,11 @@
+.DS_Store
+.cache
+.eggs
+.gitignore
+.ipynb_checkpoints
+build
+*.spec
+*.egg-info
+dist
+scratchpad
+venv
